@@ -28,3 +28,5 @@ This analysis aims to answer the following questions:
 
 ## Executive Summary ##
 Our analysis of the data indicates that the United States currently experiences the highest layoff rate globally, followed by India and several major European countries, including Germany, the United Kingdom, and the Netherlands. While Amazon, Meta (Facebook), and Tesla recorded the highest number of layoffs in 2024, the retail industry saw the most significant job cuts, followed by the consumer sector—which includes businesses that produce, distribute, and sell goods and services directly to individuals, spanning industries such as food, clothing, electronics, and entertainment. Additionally, U.S.-based companies accounted for the highest number of layoffs, suggesting that a company's headquarters location may be a contributing factor in assessing layoff risks.
+
+![Unicorns-2](https://github.com/SorenSmith/The-Job-Market-Crisis/blob/main/Dashboard%201%20(3).png)
