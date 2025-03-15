@@ -26,3 +26,5 @@ This analysis aims to answer the following questions:
 - Large Corporations, such as Amazon, are expected to have higher layoff numbers compared to smaller, less prominent companies.
 - I do not expect a company's headquarters locations to have a direct impact on its layoff rate.
 
+## Executive Summary ##
+Our analysis of the data indicates that the United States currently experiences the highest layoff rate globally, followed by India and several major European countries, including Germany, the United Kingdom, and the Netherlands. While Amazon, Meta (Facebook), and Tesla recorded the highest number of layoffs in 2024, the retail industry saw the most significant job cuts, followed by the consumer sector—which includes businesses that produce, distribute, and sell goods and services directly to individuals, spanning industries such as food, clothing, electronics, and entertainment. Additionally, U.S.-based companies accounted for the highest number of layoffs, suggesting that a company's headquarters location may be a contributing factor in assessing layoff risks.
